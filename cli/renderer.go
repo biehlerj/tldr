@@ -5,9 +5,9 @@ import (
 	"os"
 	"strings"
 
+	"github.com/biehlerj/tldr/pages"
 	"github.com/fatih/color"
 	"github.com/isacikgoz/gitin/term"
-	"github.com/isacikgoz/tldr/pages"
 )
 
 func renderItem(item interface{}, matches []int, selected bool) [][]term.Cell {

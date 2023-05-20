@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/isacikgoz/tldr/config"
+	"github.com/biehlerj/tldr/config"
 )
 
 const (

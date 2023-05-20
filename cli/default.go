@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 
+	"github.com/biehlerj/tldr/pages"
 	"github.com/isacikgoz/gitin/prompt"
 	"github.com/isacikgoz/gitin/term"
-	"github.com/isacikgoz/tldr/pages"
 )
 
 // DefaultPrompt is the default tldr prompt

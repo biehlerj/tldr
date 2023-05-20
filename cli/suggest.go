@@ -6,9 +6,9 @@ import (
 	"os"
 	"strings"
 
+	"github.com/biehlerj/tldr/pages"
 	cp "github.com/c-bata/go-prompt"
 	"github.com/c-bata/go-prompt/completer"
-	"github.com/isacikgoz/tldr/pages"
 )
 
 var (

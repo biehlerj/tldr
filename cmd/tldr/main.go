@@ -6,9 +6,9 @@ import (
 	"os"
 
 	"github.com/alecthomas/kingpin/v2"
+	"github.com/biehlerj/tldr/cli"
+	"github.com/biehlerj/tldr/config"
 	"github.com/isacikgoz/gitin/prompt"
-	"github.com/isacikgoz/tldr/cli"
-	"github.com/isacikgoz/tldr/config"
 	env "github.com/kelseyhightower/envconfig"
 )
 

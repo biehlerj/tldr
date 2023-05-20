@@ -1,5 +1,5 @@
 
-![GitHub Actions](https://img.shields.io/github/actions/workflow/status/isacikgoz/tldr/ci.yml) ![GitHub All Releases](https://img.shields.io/github/downloads/isacikgoz/tldr/total.svg) [![Join the chat at https://gitter.im/tldrpp/community](https://badges.gitter.im/tldrpp/community.svg)](https://gitter.im/tldrpp/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) ![Release](https://img.shields.io/github/release/isacikgoz/tldr.svg)
+![GitHub Actions](https://img.shields.io/github/actions/workflow/status/biehlerj/tldr/ci.yml) ![GitHub All Releases](https://img.shields.io/github/downloads/biehlerj/tldr/total.svg) ![Release](https://img.shields.io/github/release/biehlerj/tldr.svg)
 
 # tldr++
 
@@ -13,18 +13,18 @@ Community driven man pages improved with smart user interaction. **tldr++** sepe
 - Search from commands to find your desired command (exact + fuzzy search)
 - Smart file suggestions (further suggestions will be added)
 - Simple implementation
-- One of the fastest clients, even fastest (see [Benchmarks](https://github.com/isacikgoz/tldr/wiki/Benchmarks))
+- One of the fastest clients, even fastest (see [Benchmarks](https://github.com/biehlerj/tldr/wiki/Benchmarks))
 - Easy to install. Supports all mainstream OS and platforms (Linux, MacOS, *Windows (*`v1.0` *excluded for a while*)(arm, x86)
 - Pure-go (*even contains built-in git*)
 
 ## Installation
 
-Refer to [Release Page](https://github.com/isacikgoz/tldr/releases) for binaries.
+Refer to [Release Page](https://github.com/biehlerj/tldr/releases) for binaries.
 
 Or, you can build from source: (min. **go 1.18** compiler is recommended)
 
 ```bash
-go install github.com/isacikgoz/tldr/cmd/tldr@latest
+go install github.com/biehlerj/tldr/cmd/tldr@latest
 ```
 
 ### macOS using brew
